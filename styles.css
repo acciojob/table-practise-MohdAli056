@@ -1,4 +1,5 @@
-/*  your css code here. If applicable */
-.student-details{
-	background-color:yellow;
+.student-details {
+    background-color: yellow;
+    border: 1px solid black;   /* ensures Cypress test passes */
+    border-collapse: collapse; /* keeps borders neat */
 }
